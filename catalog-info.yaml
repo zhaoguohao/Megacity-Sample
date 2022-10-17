@@ -1,0 +1,17 @@
+# For more information about the available options please visit: http://go/backstage (VPN required)
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    github.com/project-slug: Unity-Technologies/Megacity-Sample
+    backstage.io/techdocs-ref: dir:.
+  name: Megacity-Sample
+  description: "ECS sample"
+  labels:
+    costcenter: "5018"
+  tags:
+    - planned-public
+spec:
+  type: library
+  lifecycle: production
+  owner: unity-technologies/samples---dots-animation
