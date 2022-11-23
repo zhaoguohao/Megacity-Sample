@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: ea631246c133fc74894204700d7023cd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A_low
+    100002: B_low
+    100004: C_low
+    100006: D_low
+    100008: E_low
+    100010: E_low001
+    100012: F_low
+    100014: G_low
+    100016: H_low
+    100018: Object3700
+    100020: Object3701
+    100022: Object3702
+    100024: Object3703
+    100026: Object3704
+    100028: Object3705
+    100030: Object3707
+    100032: Object3708
+    100034: Object3709
+    100036: Object3710
+    100038: Object3711
+    100040: Object3712
+    100042: //RootNode
+    100044: Geometry_Vehicle_HoverCar_A_LOD00
+    100046: Geometry_Vehicle_HoverCar_A_LOD01
+    100048: Geometry_Vehicle_HoverCar_A_LOD02
+    100050: Geometry_Vehicle_HoverCar_A_LOD03
+    100052: Geometry_Vehicle_HoverCar_A_LOD04
+    100054: Geometry_Vehicle_HoverCar_A_LOD06
+    100056: Geometry_Vehicle_HoverCar_A_LOD05
+    400000: A_low
+    400002: B_low
+    400004: C_low
+    400006: D_low
+    400008: E_low
+    400010: E_low001
+    400012: F_low
+    400014: G_low
+    400016: H_low
+    400018: Object3700
+    400020: Object3701
+    400022: Object3702
+    400024: Object3703
+    400026: Object3704
+    400028: Object3705
+    400030: Object3707
+    400032: Object3708
+    400034: Object3709
+    400036: Object3710
+    400038: Object3711
+    400040: Object3712
+    400042: //RootNode
+    400044: Geometry_Vehicle_HoverCar_A_LOD00
+    400046: Geometry_Vehicle_HoverCar_A_LOD01
+    400048: Geometry_Vehicle_HoverCar_A_LOD02
+    400050: Geometry_Vehicle_HoverCar_A_LOD03
+    400052: Geometry_Vehicle_HoverCar_A_LOD04
+    400054: Geometry_Vehicle_HoverCar_A_LOD06
+    400056: Geometry_Vehicle_HoverCar_A_LOD05
+    2100000: 02 - Default
+    2100002: 06 - Default
+    2100004: Vehicle_HoverCar_A
+    2100006: _Vehicle_HoverCar_A_Glass
+    2100008: Vehicle_HoverCar_A_Glass
+    2100010: Vehicle_HoverCar_A_LightGlass
+    2100012: Vehicle_HoverCar_A_TintedGlass
+    2100014: 24 - Default
+    2300000: A_low
+    2300002: B_low
+    2300004: C_low
+    2300006: D_low
+    2300008: E_low
+    2300010: E_low001
+    2300012: F_low
+    2300014: G_low
+    2300016: H_low
+    2300018: Object3700
+    2300020: Object3701
+    2300022: Object3702
+    2300024: Object3703
+    2300026: Object3704
+    2300028: Object3705
+    2300030: Object3707
+    2300032: Object3708
+    2300034: Object3709
+    2300036: Object3710
+    2300038: Object3711
+    2300040: Object3712
+    2300042: //RootNode
+    2300044: Geometry_Vehicle_HoverCar_A_LOD00
+    2300046: Geometry_Vehicle_HoverCar_A_LOD01
+    2300048: Geometry_Vehicle_HoverCar_A_LOD02
+    2300050: Geometry_Vehicle_HoverCar_A_LOD03
+    2300052: Geometry_Vehicle_HoverCar_A_LOD04
+    2300054: Geometry_Vehicle_HoverCar_A_LOD06
+    2300056: Geometry_Vehicle_HoverCar_A_LOD05
+    3300000: A_low
+    3300002: B_low
+    3300004: C_low
+    3300006: D_low
+    3300008: E_low
+    3300010: E_low001
+    3300012: F_low
+    3300014: G_low
+    3300016: H_low
+    3300018: Object3700
+    3300020: Object3701
+    3300022: Object3702
+    3300024: Object3703
+    3300026: Object3704
+    3300028: Object3705
+    3300030: Object3707
+    3300032: Object3708
+    3300034: Object3709
+    3300036: Object3710
+    3300038: Object3711
+    3300040: Object3712
+    3300042: //RootNode
+    3300044: Geometry_Vehicle_HoverCar_A_LOD00
+    3300046: Geometry_Vehicle_HoverCar_A_LOD01
+    3300048: Geometry_Vehicle_HoverCar_A_LOD02
+    3300050: Geometry_Vehicle_HoverCar_A_LOD03
+    3300052: Geometry_Vehicle_HoverCar_A_LOD04
+    3300054: Geometry_Vehicle_HoverCar_A_LOD06
+    3300056: Geometry_Vehicle_HoverCar_A_LOD05
+    4300000: A_low
+    4300002: E_low
+    4300004: B_low
+    4300006: C_low
+    4300008: D_low
+    4300010: G_low
+    4300012: F_low
+    4300014: H_low
+    4300016: Object3700
+    4300018: Object3701
+    4300020: Object3702
+    4300022: Object3703
+    4300024: Object3704
+    4300026: Object3705
+    4300028: Object3707
+    4300030: Object3708
+    4300032: Object3709
+    4300034: E_low001
+    4300036: Object3710
+    4300038: Object3711
+    4300040: Object3712
+    4300042: Vehicle_HoverCar_A_LOD00
+    4300044: Vehicle_HoverCar_A
+    4300046: Geometry_Vehicle_HoverCar_A_LOD00
+    4300048: Geometry_Vehicle_HoverCar_A_LOD01
+    4300050: Geometry_Vehicle_HoverCar_A_LOD02
+    4300052: Geometry_Vehicle_HoverCar_A_LOD03
+    4300054: Geometry_Vehicle_HoverCar_A_LOD04
+    4300056: Geometry_Vehicle_HoverCar_A_LOD06
+    4300058: Geometry_Vehicle_HoverCar_A_LOD05
+    20500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_HoverCar_A
+    second: {fileID: 2100000, guid: 46198b55acf65cb4486ca08df5c3ae3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_HoverCar_A_Glass
+    second: {fileID: 2100000, guid: 79c37ea50b2dcf54d8e447f6fa4324b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_HoverCar_A_LightGlass
+    second: {fileID: 2100000, guid: 051ca4b4a92283c4e92aeac06e35e11a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_HoverCar_A_TintedGlass
+    second: {fileID: 2100000, guid: c3639b7f0fbbbe4429864110dc6bf088, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.03125
+    - 0.015625
+    - 0.0078125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

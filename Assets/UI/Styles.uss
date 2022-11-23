@@ -1,0 +1,197 @@
+* {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    -unity-font: url('project://database/Assets/UI/Fonts/JuliusSansOne-Regular.ttf?fileID=12800000&guid=86e5bf6d5f68ff743ad560d6e24802bf&type=3#JuliusSansOne-Regular');
+    -unity-font-definition: url('project://database/Assets/UI/Fonts/JuliusSansOne-Regular%20SDF.asset?fileID=11400000&guid=0fe67ff28faebde449c174262567b37d&type=2#JuliusSansOne-Regular SDF');
+}
+
+.background {
+    background-color: rgba(255, 255, 255, 0);
+    display: flex;
+    width: 100%;
+    height: 100%;
+    -unity-background-scale-mode: scale-to-fit;
+    background-image: url('project://database/Assets/Textures/Interface/background-high-res.png?fileID=21300000&guid=f16da7e13aa67f541b4fb728f1732e12&type=3#background-high-res');
+}
+
+.background .settings {
+    background-image: url('project://database/Assets/Textures/Interface/background-settings-high-res.png?fileID=2800000&guid=9693d7805d2972c4ab44bca5caa14675&type=3#background-settings-high-res');
+}
+
+.button {
+    background-image: url('project://database/Assets/Textures/Interface/button.png?fileID=21300000&guid=4fd8bb0cdcb06924fbed736d0cea7e50&type=3#button');
+    background-color: rgba(188, 188, 188, 0);
+    border-color: rgba(149, 149, 149, 0);
+    color: rgba(255, 255, 255, 0.2);
+    padding-top: 16px;
+    height: 90px;
+}
+
+.button:hover {
+    color: rgb(255, 255, 255);
+    background-image: url('project://database/Assets/Textures/Interface/button-selected.png?fileID=21300000&guid=8067070b47dba9746827f7db9d449c91&type=3#button-selected');
+}
+
+.button:selected {
+    color: rgb(255, 255, 255);
+    background-image: url('project://database/Assets/Textures/Interface/button-selected.png?fileID=21300000&guid=8067070b47dba9746827f7db9d449c91&type=3#button-selected');
+}
+
+.button:active {
+    color: rgb(255, 255, 255);
+    background-image: url('project://database/Assets/Textures/Interface/button-selected.png?fileID=21300000&guid=8067070b47dba9746827f7db9d449c91&type=3#button-selected');
+}
+
+.button-menu-active {
+    color: rgb(255, 255, 255);
+    background-image: url('project://database/Assets/Textures/Interface/button-selected.png?fileID=21300000&guid=8067070b47dba9746827f7db9d449c91&type=3#button-selected');
+}
+
+.decoration-asset {
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url('project://database/Assets/Textures/Interface/decoration-1.png?fileID=21300000&guid=49b0227554e116a48907daaca48d4952&type=3#decoration-1');
+    -unity-background-scale-mode: stretch-to-fill;
+    width: 618px;
+    height: 603px;
+    position: absolute;
+    top: 34%;
+    left: 0;
+    transform-origin: left;
+    scale: 0.5 0.5;
+}
+
+.popup-selection {
+    height: 85px;
+    padding-bottom: 0;
+    margin-bottom: 6px;
+}
+
+.popup-selection > Label {
+    display: none;
+}
+
+.popup-selection > .unity-base-field__input {
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    border-width: 0;
+    background-image: url('project://database/Assets/Textures/Interface/combobox.png?fileID=21300000&guid=b6c724ead0518914885c19c8ce7b1e4d&type=3#combobox');
+}
+
+.popup-selection > .unity-base-field__input > PopupTextElement {
+    -unity-text-align: middle-center;
+    color: rgba(255, 255, 255, 0.2);
+    margin-right: 20px;
+}
+
+.popup-selection > .unity-base-field__input > VisualElement {
+    background-image: url('project://database/Assets/Textures/Interface/arrow.png?fileID=21300000&guid=9cebf473acd8e2d40bfdfb0fc599647c&type=3#arrow');
+    -unity-background-scale-mode: scale-and-crop;
+    width: 33px;
+    height: 17px;
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+}
+
+.checkbox {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    flex-direction: column;
+    width: 80px;
+    height: 80px;
+}
+
+.checkbox > Label {
+    display: none;
+}
+
+.unity-toggle > .unity-toggle__input > .unity-toggle__checkmark {
+    background-image: url('project://database/Assets/Textures/Interface/checkbox-sq-uncheck.png?fileID=2800000&guid=2cc392f6e756bbd4082ac1f6f1e5eb47&type=3#checkbox-sq-uncheck');
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    border-width: 0;
+    background-color: rgba(255, 255, 255, 0);
+    width: 100%;
+    height: 100%;
+}
+
+.unity-toggle > .unity-toggle__input:checked > .unity-toggle__checkmark {
+    background-image: url('project://database/Assets/Textures/Interface/checkbox-sq.png?fileID=2800000&guid=effa0324df3397046b0806328f8d4bfd&type=3#checkbox-sq');
+}
+
+.slider > Label {
+    display: none;
+}
+
+.slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    height: 60px;
+}
+
+.slider {
+    height: 40px;
+    margin: 30px;
+}
+
+.slider > .unity-slider__input > .unity-base-slider__drag-container {
+    align-self: flex-start;
+}
+
+.slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__tracker {
+    border-color: rgb(6, 175, 255);
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgba(9, 21, 49, 0.31);
+    border-width: 2px;
+}
+
+.slider > .unity-slider__input > .unity-base-slider__drag-container > .unity-base-slider__dragger {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(6, 175, 255);
+    border-radius: 30px;
+}
+
+.progress-bar > .unity-progress-bar__container {
+    height: 40px;
+    flex-direction: row-reverse;
+}
+
+.progress-bar > .unity-progress-bar__container > .unity-progress-bar__background {
+    border-color: rgb(6, 175, 255);
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgba(9, 21, 49, 0.31);
+    border-width: 2px;
+}
+
+.progress-bar > .unity-progress-bar__container > .unity-progress-bar__background > .unity-progress-bar__progress {
+    border-width: 0;
+    height: auto;
+    background-color: rgb(6, 175, 255);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.unity-base-dropdown {
+}
+
+.unity-base-dropdown > .unity-base-dropdown__container-outer {
+}
+
+.unity-base-dropdown > .unity-base-dropdown__container-outer > .unity-base-dropdown__container-inner {
+    background-color: red;
+}
+
+.unity-base-dropdown {
+    display: none;
+}
+
+.unity-base-dropdown > VisualElement > ScrollView {
+    display: none;
+}
+
+.MyPopUp {
+    background-color: red;
+}

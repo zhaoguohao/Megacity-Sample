@@ -1,0 +1,30 @@
+{
+    "name": "Unity.MegaCity.Gameplay",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.Mathematics.Extensions",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Transforms",
+        "Unity.Burst",
+        "Unity.Entities.Graphics",
+        "Unity.Entities.Streaming",
+        "Unity.Collections",
+        "Unity.Physics",
+        "Unity.Scenes",
+        "Unity.RenderPipelines.Core.Runtime",
+        "KDTree",
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "Cinemachine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

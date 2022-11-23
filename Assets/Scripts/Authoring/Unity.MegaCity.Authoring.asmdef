@@ -1,0 +1,26 @@
+{
+    "name": "Unity.MegaCity.Authoring",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.MegaCity.Gameplay",
+        "Unity.Transforms",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Collections",
+        "Unity.Physics",
+        "Unity.Physics.Hybrid",
+        "UnityEngine.UI",
+        "UnityEditor.UI",
+        "Unity.Burst"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

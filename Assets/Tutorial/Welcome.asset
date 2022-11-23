@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0885f594ab85594caa28e1a96cbe0d8, type: 3}
+  m_Name: Welcome
+  m_EditorClassIdentifier: 
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Image: {fileID: 2800000, guid: d04bbd17e3eb9cf4886df332c3c4acdc, type: 3}
+  m_WindowTitle:
+    m_Untranslated: Tutorial
+  m_Title:
+    m_Untranslated: Megacity - ECS Sample
+  m_Description:
+    m_Untranslated: "<b>Welcome to Megacity!</b>\nIn the following set of tutorials,
+      you\u2019ll learn how to:\n\n<b>1. Structure the project</b>\n<b>2. Play Megacity.</b>\n<b>3.
+      Build Megacity.</b>\n\nThe Tutorials section can be found in the main menu
+      Tutorials > Show Tutorials.\nHave a great journey."
+  m_Buttons:
+  - Text:
+      m_Untranslated: Close
+    Tooltip:
+      m_Untranslated: 
+    OnClick:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000}
+          m_TargetAssemblyTypeName: Unity.Tutorials.Core.Editor.TutorialWelcomePage,
+            Unity.Tutorials.Core.Editor
+          m_MethodName: CloseCurrentModalDialog
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: 
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 1

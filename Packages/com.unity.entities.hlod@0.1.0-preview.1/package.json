@@ -1,0 +1,10 @@
+{
+  "name": "com.unity.entities.hlod",
+  "displayName": "Unity Entities HLOD",
+  "version": "0.1.0-preview.1",
+  "unity": "2022.2",
+  "description": "HLOD functionality used by MegaCity demo",
+  "dependencies": {
+    "com.unity.entities.graphics": "0.60.0-preview.52"
+  }
+}

@@ -89,3 +89,5 @@ crashlytics-build.properties
 
 # Mac file setting
 .DS_Store
+**/SceneDependencyCache
+Assets/SceneDependencyCache.meta

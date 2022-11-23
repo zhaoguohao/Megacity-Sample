@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: Container
+  m_EditorClassIdentifier: 
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  ParentContainer: {fileID: 0}
+  OrderInView: 0
+  BackgroundImage: {fileID: 2800000, guid: d04bbd17e3eb9cf4886df332c3c4acdc, type: 3}
+  Title:
+    m_Untranslated: Megacity
+  Subtitle:
+    m_Untranslated: Tutorial
+  Description:
+    m_Untranslated: 
+  ProjectLayout: {fileID: 0}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Structure of the project
+    Text:
+      m_Untranslated: This section is an overview of the Assets folder and the Hierarchy
+        View in the <b>Megacity.scene</b>
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: 14f3fb680f3023e46967ae11d238ef16, type: 3}
+    Tutorial: {fileID: 11400000, guid: 0b3926a361ffa2e4a9d306b53f6e9e67, type: 2}
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: How to play
+    Text:
+      m_Untranslated: Learn how to navigate in the Megacity scene in Play mode and
+        move the car.
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: a731bd7deda4ada468c84c16c87d7f58, type: 3}
+    Tutorial: {fileID: 11400000, guid: 8fafc414e497b1948b8867fed3d48b3e, type: 2}
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: 'Build Megacity '
+    Text:
+      m_Untranslated: 'By following this tutorial you can build Megacity in the supported
+        platform targets and the different debug and release modes. '
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: 8ff6a6e164d5bea4cbfdc6416590f294, type: 3}
+    Tutorial: {fileID: 11400000, guid: 976f67abc346efc4d9022f57d8c0e4b4, type: 2}

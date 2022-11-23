@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: GlobalVolume Profile
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 114752099604523396}
+--- !u!114 &114752099604523396
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10b9ad5047bdaef41afc9d0c000e3d93, type: 3}
+  m_Name: LightProperties
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  target:
+    m_OverrideState: 1
+    m_Value:
+      exposedName: d9279542d8dc4d44b9e527eb192b3ca3
+      defaultValue: {fileID: 0}
+  rotation:
+    m_OverrideState: 0
+    m_Value: {x: 0, y: 0, z: 0}
+  color:
+    m_OverrideState: 0
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  colorTemperature:
+    m_OverrideState: 1
+    m_Value: 4200
+    min: 1000
+    max: 20000
+  intensity:
+    m_OverrideState: 1
+    m_Value: 6
+    min: 0
+  bounceIntensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+  cookie:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  cookieSize:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
