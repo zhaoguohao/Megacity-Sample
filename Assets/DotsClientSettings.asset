@@ -1,16 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2ea235c1fcfe29488ed97c467a0da53, type: 3}
-  m_Name: DotsClientSettings
-  m_EditorClassIdentifier: 
-  FilterSettings:
-    ExcludedBakingSystemAssemblies: []
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aae0f6aff84ee29642bc0c71539b89f4059b76b6c245fb3f809b6fe7cad6b9e
+size 464

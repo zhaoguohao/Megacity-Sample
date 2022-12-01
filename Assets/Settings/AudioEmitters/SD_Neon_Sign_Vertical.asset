@@ -1,27 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec926670d544af1498729915763f32c2, type: 3}
-  m_Name: SD_Neon_Sign_Vertical
-  m_EditorClassIdentifier: 
-  data:
-    definitionIndex: 10
-    soundPlayerIndexMin: 17
-    soundPlayerIndexMax: 19
-    probability: 100
-    volume: 2
-    coneAngle: 360
-    coneTransition: 0
-    minDist: 0
-    maxDist: 40
-    falloffMode: 1
-    reverbGain: 0
-    reverbCrossoverDistance: 20
+version https://git-lfs.github.com/spec/v1
+oid sha256:af5b0923a930c1109c582b423137294310e24a096670aba5593d19993e2e2d10
+size 674
